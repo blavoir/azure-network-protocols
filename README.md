@@ -114,9 +114,7 @@ In wireshark, filter for DHCP traffic. Type in ipconfig /renew in Powershell and
 <br />
 
 
-<p>
-<img src="https://i.imgur.com/dAeX667.gif" height="80%" width="80%" alt="Inspecting DNS"/>
-</p>
+![14](https://github.com/user-attachments/assets/58c32455-62fe-4c7d-8512-4b65c5a66efe)
 <p>
 In wireshark, filter for DNS traffic. In Powershell, use nslookup with any domain like google.com. Notice it returns with ip addresses pointing that domain. This is what DNS is, DNS stands for domain name system and it translates human-readable domain names into machine read-able IP addresses. 
 </p>
